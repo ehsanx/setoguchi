@@ -161,5 +161,5 @@ g1 <- -.7 # effect of exposure
 # # Example: Generate 1000 datasets of N=500 in scenario G 
 # 
 # 
-# simdata <- F.generate(10, "A")
-# head(simdata)
+simdata <- F.generate(10, "A")
+head(simdata)
